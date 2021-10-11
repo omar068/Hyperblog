@@ -3,6 +3,7 @@ body
     color: blue;
     font-family: Arial;
     font-size: 16px;
+    text-align: center;
     margin: 0;
     padding: 0;
 }
@@ -17,11 +18,6 @@ body
     padding: 0.5em;
 }
 
-#version
-{
-    font-size:x-small;
-    text-align:end;
-}
 
 #container
 {
@@ -40,5 +36,4 @@ body
 #post
 {
     padding: 1em;
-    text-align: center;
 }
